@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Cast and Convert Example\Cast and Convert Example\bin\Debug\Cast and Convert Example.exe.config
+g:\documents\visual studio 2013\Projects\Cast and Convert Example\Cast and Convert Example\obj\Debug\Cast and Convert Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Cast and Convert Example\Cast and Convert Example\bin\Debug\Cast and Convert Example.exe
+g:\documents\visual studio 2013\Projects\Cast and Convert Example\Cast and Convert Example\bin\Debug\Cast and Convert Example.pdb
+g:\documents\visual studio 2013\Projects\Cast and Convert Example\Cast and Convert Example\obj\Debug\Cast and Convert Example.exe
+g:\documents\visual studio 2013\Projects\Cast and Convert Example\Cast and Convert Example\obj\Debug\Cast and Convert Example.pdb

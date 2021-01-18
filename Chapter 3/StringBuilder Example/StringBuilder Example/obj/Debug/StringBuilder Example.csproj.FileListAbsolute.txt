@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.exe.config
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.exe
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.pdb
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.exe
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.pdb

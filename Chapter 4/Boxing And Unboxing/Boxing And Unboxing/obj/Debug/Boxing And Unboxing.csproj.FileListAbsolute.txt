@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Boxing And Unboxing\Boxing And Unboxing\bin\Debug\Boxing And Unboxing.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Boxing And Unboxing\Boxing And Unboxing\bin\Debug\Boxing And Unboxing.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Boxing And Unboxing\Boxing And Unboxing\bin\Debug\Boxing And Unboxing.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Boxing And Unboxing\Boxing And Unboxing\obj\Debug\Boxing And Unboxing.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Boxing And Unboxing\Boxing And Unboxing\obj\Debug\Boxing And Unboxing.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Boxing And Unboxing\Boxing And Unboxing\obj\Debug\Boxing And Unboxing.pdb

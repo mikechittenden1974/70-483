@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Using EventHandler\Using EventHandler\bin\Debug\Using EventHandler.exe.config
+g:\documents\visual studio 2013\Projects\Using EventHandler\Using EventHandler\bin\Debug\Using EventHandler.exe
+g:\documents\visual studio 2013\Projects\Using EventHandler\Using EventHandler\bin\Debug\Using EventHandler.pdb
+g:\documents\visual studio 2013\Projects\Using EventHandler\Using EventHandler\obj\Debug\Using EventHandler.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Using EventHandler\Using EventHandler\obj\Debug\Using EventHandler.exe
+g:\documents\visual studio 2013\Projects\Using EventHandler\Using EventHandler\obj\Debug\Using EventHandler.pdb

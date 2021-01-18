@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Exception Example\Exception Example\bin\Debug\Exception Example.exe.config
+g:\documents\visual studio 2013\Projects\Exception Example\Exception Example\bin\Debug\Exception Example.exe
+g:\documents\visual studio 2013\Projects\Exception Example\Exception Example\bin\Debug\Exception Example.pdb
+g:\documents\visual studio 2013\Projects\Exception Example\Exception Example\obj\Debug\Exception Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Exception Example\Exception Example\obj\Debug\Exception Example.exe
+g:\documents\visual studio 2013\Projects\Exception Example\Exception Example\obj\Debug\Exception Example.pdb

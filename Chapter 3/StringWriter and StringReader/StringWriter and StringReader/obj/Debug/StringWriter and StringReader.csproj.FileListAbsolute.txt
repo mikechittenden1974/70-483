@@ -1,0 +1,9 @@
+g:\documents\visual studio 2013\Projects\StringWriter and StringReader\StringWriter and StringReader\bin\Debug\StringWriter and StringReader.exe.config
+g:\documents\visual studio 2013\Projects\StringWriter and StringReader\StringWriter and StringReader\bin\Debug\StringWriter and StringReader.exe
+g:\documents\visual studio 2013\Projects\StringWriter and StringReader\StringWriter and StringReader\bin\Debug\StringWriter and StringReader.pdb
+g:\documents\visual studio 2013\Projects\StringWriter and StringReader\StringWriter and StringReader\obj\Debug\StringWriter and StringReader.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\StringWriter and StringReader\StringWriter and StringReader\obj\Debug\StringWriter and StringReader.exe
+g:\documents\visual studio 2013\Projects\StringWriter and StringReader\StringWriter and StringReader\obj\Debug\StringWriter and StringReader.pdb
+D:\IS\C# 70-483\Working Files\Chapter 3\StringWriter and StringReader\StringWriter and StringReader\bin\Debug\StringWriter and StringReader.exe.config
+D:\IS\C# 70-483\Working Files\Chapter 3\StringWriter and StringReader\StringWriter and StringReader\obj\Debug\StringWriter and StringReader.exe
+D:\IS\C# 70-483\Working Files\Chapter 3\StringWriter and StringReader\StringWriter and StringReader\obj\Debug\StringWriter and StringReader.pdb

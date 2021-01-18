@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Generics Example\Generics Example\bin\Debug\Generics Example.exe.config
+g:\documents\visual studio 2013\Projects\Generics Example\Generics Example\bin\Debug\Generics Example.exe
+g:\documents\visual studio 2013\Projects\Generics Example\Generics Example\bin\Debug\Generics Example.pdb
+g:\documents\visual studio 2013\Projects\Generics Example\Generics Example\obj\Debug\Generics Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Generics Example\Generics Example\obj\Debug\Generics Example.exe
+g:\documents\visual studio 2013\Projects\Generics Example\Generics Example\obj\Debug\Generics Example.pdb

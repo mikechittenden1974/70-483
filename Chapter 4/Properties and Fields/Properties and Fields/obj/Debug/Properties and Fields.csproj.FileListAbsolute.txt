@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Properties and Fields\Properties and Fields\bin\Debug\Properties and Fields.exe.config
+g:\documents\visual studio 2013\Projects\Properties and Fields\Properties and Fields\obj\Debug\Properties and Fields.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Properties and Fields\Properties and Fields\bin\Debug\Properties and Fields.exe
+g:\documents\visual studio 2013\Projects\Properties and Fields\Properties and Fields\bin\Debug\Properties and Fields.pdb
+g:\documents\visual studio 2013\Projects\Properties and Fields\Properties and Fields\obj\Debug\Properties and Fields.exe
+g:\documents\visual studio 2013\Projects\Properties and Fields\Properties and Fields\obj\Debug\Properties and Fields.pdb

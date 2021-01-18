@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Creating An Interface\Creating An Interface\bin\Debug\Creating An Interface.exe.config
+g:\documents\visual studio 2013\Projects\Creating An Interface\Creating An Interface\obj\Debug\Creating An Interface.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Creating An Interface\Creating An Interface\bin\Debug\Creating An Interface.exe
+g:\documents\visual studio 2013\Projects\Creating An Interface\Creating An Interface\bin\Debug\Creating An Interface.pdb
+g:\documents\visual studio 2013\Projects\Creating An Interface\Creating An Interface\obj\Debug\Creating An Interface.exe
+g:\documents\visual studio 2013\Projects\Creating An Interface\Creating An Interface\obj\Debug\Creating An Interface.pdb

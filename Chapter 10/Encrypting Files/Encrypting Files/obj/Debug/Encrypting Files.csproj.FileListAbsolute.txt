@@ -1,0 +1,12 @@
+c:\users\mlong\documents\visual studio 2013\Projects\Encrypting Files\Encrypting Files\bin\Debug\Encrypting Files.exe.config
+c:\users\mlong\documents\visual studio 2013\Projects\Encrypting Files\Encrypting Files\bin\Debug\Encrypting Files.exe
+c:\users\mlong\documents\visual studio 2013\Projects\Encrypting Files\Encrypting Files\bin\Debug\Encrypting Files.pdb
+c:\users\mlong\documents\visual studio 2013\Projects\Encrypting Files\Encrypting Files\obj\Debug\Encrypting Files.csprojResolveAssemblyReference.cache
+c:\users\mlong\documents\visual studio 2013\Projects\Encrypting Files\Encrypting Files\obj\Debug\Encrypting Files.exe
+c:\users\mlong\documents\visual studio 2013\Projects\Encrypting Files\Encrypting Files\obj\Debug\Encrypting Files.pdb
+I:\IS\C# 70-483\Working Files\Chapter 10\Encrypting Files\Encrypting Files\bin\Debug\Encrypting Files.exe.config
+I:\IS\C# 70-483\Working Files\Chapter 10\Encrypting Files\Encrypting Files\obj\Debug\Encrypting Files.exe
+I:\IS\C# 70-483\Working Files\Chapter 10\Encrypting Files\Encrypting Files\obj\Debug\Encrypting Files.pdb
+I:\IS\C# 70-483\Working Files\Chapter 10\Encrypting Files\Encrypting Files\bin\Debug\Encrypting Files.exe
+I:\IS\C# 70-483\Working Files\Chapter 10\Encrypting Files\Encrypting Files\bin\Debug\Encrypting Files.pdb
+I:\IS\C# 70-483\Working Files\Chapter 10\Encrypting Files\Encrypting Files\obj\Debug\Encrypting Files.csprojResolveAssemblyReference.cache

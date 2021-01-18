@@ -1,0 +1,6 @@
+c:\users\mlong\documents\visual studio 2013\Projects\Indexer Example\Indexer Example\bin\Debug\Indexer Example.exe.config
+c:\users\mlong\documents\visual studio 2013\Projects\Indexer Example\Indexer Example\bin\Debug\Indexer Example.exe
+c:\users\mlong\documents\visual studio 2013\Projects\Indexer Example\Indexer Example\bin\Debug\Indexer Example.pdb
+c:\users\mlong\documents\visual studio 2013\Projects\Indexer Example\Indexer Example\obj\Debug\Indexer Example.csprojResolveAssemblyReference.cache
+c:\users\mlong\documents\visual studio 2013\Projects\Indexer Example\Indexer Example\obj\Debug\Indexer Example.exe
+c:\users\mlong\documents\visual studio 2013\Projects\Indexer Example\Indexer Example\obj\Debug\Indexer Example.pdb

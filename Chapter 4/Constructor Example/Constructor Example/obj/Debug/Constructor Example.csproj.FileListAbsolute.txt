@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Constructor Example\Constructor Example\bin\Debug\Constructor Example.exe.config
+g:\documents\visual studio 2013\Projects\Constructor Example\Constructor Example\bin\Debug\Constructor Example.exe
+g:\documents\visual studio 2013\Projects\Constructor Example\Constructor Example\bin\Debug\Constructor Example.pdb
+g:\documents\visual studio 2013\Projects\Constructor Example\Constructor Example\obj\Debug\Constructor Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Constructor Example\Constructor Example\obj\Debug\Constructor Example.exe
+g:\documents\visual studio 2013\Projects\Constructor Example\Constructor Example\obj\Debug\Constructor Example.pdb

@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Static Example\Static Example\bin\Debug\Static Example.exe.config
+g:\documents\visual studio 2013\Projects\Static Example\Static Example\bin\Debug\Static Example.exe
+g:\documents\visual studio 2013\Projects\Static Example\Static Example\bin\Debug\Static Example.pdb
+g:\documents\visual studio 2013\Projects\Static Example\Static Example\obj\Debug\Static Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Static Example\Static Example\obj\Debug\Static Example.exe
+g:\documents\visual studio 2013\Projects\Static Example\Static Example\obj\Debug\Static Example.pdb

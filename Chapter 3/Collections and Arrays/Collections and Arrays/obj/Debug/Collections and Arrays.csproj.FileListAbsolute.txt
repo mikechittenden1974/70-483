@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Collections and Arrays\Collections and Arrays\bin\Debug\Collections and Arrays.exe.config
+g:\documents\visual studio 2013\Projects\Collections and Arrays\Collections and Arrays\bin\Debug\Collections and Arrays.exe
+g:\documents\visual studio 2013\Projects\Collections and Arrays\Collections and Arrays\bin\Debug\Collections and Arrays.pdb
+g:\documents\visual studio 2013\Projects\Collections and Arrays\Collections and Arrays\obj\Debug\Collections and Arrays.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Collections and Arrays\Collections and Arrays\obj\Debug\Collections and Arrays.exe
+g:\documents\visual studio 2013\Projects\Collections and Arrays\Collections and Arrays\obj\Debug\Collections and Arrays.pdb

@@ -1,0 +1,8 @@
+c:\users\mlong\documents\visual studio 2013\Projects\IEnumerable Example\IEnumerable Example\bin\Debug\IEnumerable Example.exe.config
+c:\users\mlong\documents\visual studio 2013\Projects\IEnumerable Example\IEnumerable Example\bin\Debug\IEnumerable Example.exe
+c:\users\mlong\documents\visual studio 2013\Projects\IEnumerable Example\IEnumerable Example\bin\Debug\IEnumerable Example.pdb
+c:\users\mlong\documents\visual studio 2013\Projects\IEnumerable Example\IEnumerable Example\obj\Debug\IEnumerable Example.exe
+c:\users\mlong\documents\visual studio 2013\Projects\IEnumerable Example\IEnumerable Example\obj\Debug\IEnumerable Example.pdb
+D:\IS\C# 70-483\Working Files\Chapter 5\IEnumerable Example\IEnumerable Example\bin\Debug\IEnumerable Example.exe.config
+D:\IS\C# 70-483\Working Files\Chapter 5\IEnumerable Example\IEnumerable Example\obj\Debug\IEnumerable Example.exe
+D:\IS\C# 70-483\Working Files\Chapter 5\IEnumerable Example\IEnumerable Example\obj\Debug\IEnumerable Example.pdb

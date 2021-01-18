@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Structs Example\Structs Example\bin\Debug\Structs Example.exe.config
+g:\documents\visual studio 2013\Projects\Structs Example\Structs Example\obj\Debug\Structs Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Structs Example\Structs Example\bin\Debug\Structs Example.exe
+g:\documents\visual studio 2013\Projects\Structs Example\Structs Example\bin\Debug\Structs Example.pdb
+g:\documents\visual studio 2013\Projects\Structs Example\Structs Example\obj\Debug\Structs Example.exe
+g:\documents\visual studio 2013\Projects\Structs Example\Structs Example\obj\Debug\Structs Example.pdb

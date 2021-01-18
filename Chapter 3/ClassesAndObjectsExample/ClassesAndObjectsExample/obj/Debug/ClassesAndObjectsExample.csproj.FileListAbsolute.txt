@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\bin\Debug\ClassesAndObjectsExample.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\bin\Debug\ClassesAndObjectsExample.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\bin\Debug\ClassesAndObjectsExample.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.pdb

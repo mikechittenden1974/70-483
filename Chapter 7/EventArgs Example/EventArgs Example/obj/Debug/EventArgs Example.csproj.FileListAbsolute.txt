@@ -1,0 +1,5 @@
+g:\documents\visual studio 2013\Projects\EventArgs Example\EventArgs Example\bin\Debug\EventArgs Example.exe.config
+g:\documents\visual studio 2013\Projects\EventArgs Example\EventArgs Example\bin\Debug\EventArgs Example.exe
+g:\documents\visual studio 2013\Projects\EventArgs Example\EventArgs Example\bin\Debug\EventArgs Example.pdb
+g:\documents\visual studio 2013\Projects\EventArgs Example\EventArgs Example\obj\Debug\EventArgs Example.exe
+g:\documents\visual studio 2013\Projects\EventArgs Example\EventArgs Example\obj\Debug\EventArgs Example.pdb

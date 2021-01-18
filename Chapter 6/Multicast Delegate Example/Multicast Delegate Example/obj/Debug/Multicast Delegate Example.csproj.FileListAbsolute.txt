@@ -1,0 +1,6 @@
+g:\documents\visual studio 2013\Projects\Multicast Delegate Example\Multicast Delegate Example\bin\Debug\Multicast Delegate Example.exe.config
+g:\documents\visual studio 2013\Projects\Multicast Delegate Example\Multicast Delegate Example\obj\Debug\Multicast Delegate Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\Multicast Delegate Example\Multicast Delegate Example\bin\Debug\Multicast Delegate Example.exe
+g:\documents\visual studio 2013\Projects\Multicast Delegate Example\Multicast Delegate Example\bin\Debug\Multicast Delegate Example.pdb
+g:\documents\visual studio 2013\Projects\Multicast Delegate Example\Multicast Delegate Example\obj\Debug\Multicast Delegate Example.exe
+g:\documents\visual studio 2013\Projects\Multicast Delegate Example\Multicast Delegate Example\obj\Debug\Multicast Delegate Example.pdb
