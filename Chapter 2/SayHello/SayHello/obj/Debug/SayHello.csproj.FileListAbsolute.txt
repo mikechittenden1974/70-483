@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\bin\Debug\SayHello.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\bin\Debug\SayHello.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\bin\Debug\SayHello.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\obj\Debug\SayHello.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\obj\Debug\SayHello.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\obj\Debug\SayHello.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\obj\Debug\SayHello.exe
+c:\users\administrator\documents\visual studio 2013\Projects\SayHello\SayHello\obj\Debug\SayHello.pdb
